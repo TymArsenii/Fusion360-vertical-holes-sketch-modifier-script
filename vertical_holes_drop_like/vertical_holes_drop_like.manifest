@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"Arsenii Tymoshenko",
+	"description":	{
+		"":	"Creates sketch lines for vertical holes when 3D printing."
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
