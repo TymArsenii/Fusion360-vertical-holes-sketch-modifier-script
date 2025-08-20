@@ -2,6 +2,10 @@
 When printing holes verticaly on a FFF (FDM) 3D printer they have a coarce overhang. This tool modifies circles on sketch stage, which can later be extruded into a hole.
 Hole itself doesn't loose any of the properties. It's still a perfectly good hole with perfect printability.
 
+**To activate:**
+1. Select one or multiple circles
+2. Press SHIFT+S or go to Utilities tab -> Add-ins -> scripts and Add-ins -> lanuch "**vertical_holes_drop_like**" and wait
+
 **How the script works**
 ![sketch_edit](https://github.com/user-attachments/assets/3371857c-a0fb-43b5-8bbe-24805dbc0c33)
 
